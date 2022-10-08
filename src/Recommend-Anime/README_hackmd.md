@@ -72,6 +72,18 @@ langs: zh-tw
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/監獄學園.jpg)
 - [MySelf片源](https://myself-bbs.com/thread-43731-1-1.html)
 
+### 學園孤島
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/學園孤島.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-43936-1-1.html)
+
+### 要聽爸爸的話
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/要聽爸爸的話.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-43940-1-1.html)
+
+### 暗殺教室
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/暗殺教室.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-44007-1-1.html)
+
 
 ## 劇場版
 
@@ -88,6 +100,10 @@ langs: zh-tw
 ### 夏日大作戰
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/夏日大作戰.jpg)
 - [MySelf片源](https://myself-bbs.com/thread-43601-1-1.html)
+
+### 狼的孩子雨和雪
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/狼的孩子雨和雪.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-43831-1-1.html)
 
 ---
 
