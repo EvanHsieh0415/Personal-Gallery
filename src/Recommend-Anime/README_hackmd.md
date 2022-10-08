@@ -100,6 +100,18 @@ langs: zh-tw
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/平凡職業造就世界最強.jpg)
 - [MySelf片源](https://myself-bbs.com/thread-45158-1-1.html)
 
+### 異種族風俗娘評鑑指南
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/異種族風俗娘評鑑指南.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-45340-1-1.html)
+
+### 成群結伴！西頓學園
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/成群結伴！西頓學園.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-45352-1-1.html)
+
+### 達爾文遊戲
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/達爾文遊戲.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-45348-1-1.html)
+
 
 ## 劇場版
 
@@ -124,6 +136,10 @@ langs: zh-tw
 ### 未來的未來
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/未來的未來.jpg)
 - [MySelf片源](https://myself-bbs.com/thread-44987-1-1.html)
+
+### 天氣之子
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/天氣之子.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-45429-1-1.html)
 
 ---
 
