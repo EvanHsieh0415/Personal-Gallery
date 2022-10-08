@@ -84,6 +84,22 @@ langs: zh-tw
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/暗殺教室.jpg)
 - [MySelf片源](https://myself-bbs.com/thread-44007-1-1.html)
 
+### 青之驅魔師
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/青之驅魔師.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-44405-1-1.html)
+
+### 盾之勇者成名錄
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/盾之勇者成名錄.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-44772-1-1.html)
+
+### YU-NO 在這世界盡頭詠唱愛的少女
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/YU-NO%20在這世界盡頭詠唱愛的少女.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-45020-1-1.html)
+
+### 平凡職業造就世界最強
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/平凡職業造就世界最強.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-45158-1-1.html)
+
 
 ## 劇場版
 
@@ -104,6 +120,10 @@ langs: zh-tw
 ### 狼的孩子雨和雪
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/狼的孩子雨和雪.jpg)
 - [MySelf片源](https://myself-bbs.com/thread-43831-1-1.html)
+
+### 未來的未來
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/未來的未來.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-44987-1-1.html)
 
 ---
 
