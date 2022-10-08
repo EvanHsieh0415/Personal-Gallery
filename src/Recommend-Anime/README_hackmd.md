@@ -64,6 +64,14 @@ langs: zh-tw
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/刀劍神域.jpg)
 - [MySelf片源](https://myself-bbs.com/thread-43663-1-1.html)
 
+### 我的腦內戀礙選項
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/我的腦內戀礙選項.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-43709-1-1.html)
+
+### 監獄學園
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/監獄學園.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-43731-1-1.html)
+
 
 ## 劇場版
 
