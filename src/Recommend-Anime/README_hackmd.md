@@ -15,19 +15,19 @@ langs: zh-tw
 ## 動畫
 ### 果然我的青春戀愛喜劇搞錯了
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/果然我的青春戀愛喜劇搞錯了.jpg)
-- [MySelf片源]()
+- [MySelf片源](https://myself-bbs.com/thread-45805-1-1.html)
 
 ### 夏洛特
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/夏洛特.jpg)
-- [MySelf片源]()
+- [MySelf片源](https://myself-bbs.com/thread-43883-1-1.html)
 
 ### 青春豬頭少年不會夢到兔女郎學姐
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/青春豬頭少年不會夢到兔女郎學姐.jpg)
-- [MySelf片源]()
+- [MySelf片源](https://myself-bbs.com/thread-45805-1-1.html)
 
 ### 我們仍未知道那天所看見的花名
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/我們仍未知道那天所看見的花名.jpg)
-- [MySelf片源]()
+- [MySelf片源](https://myself-bbs.com/thread-43617-1-1.html)
 
 ### 重啟咲良田
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/重啟咲良田.jpg)
