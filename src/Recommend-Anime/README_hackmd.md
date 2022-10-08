@@ -13,7 +13,7 @@ langs: zh-tw
 ---
 
 <!--
-## {XXX}
+### {XXX}
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/{XXX}.jpg)
 - [MySelf片源](https://myself-bbs.com/thread-{YYY}-1-1.html)
 -->
@@ -56,14 +56,18 @@ langs: zh-tw
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/遊戲人生.jpg)
 - [MySelf片源](https://myself-bbs.com/thread-34363-1-1.html)
 
-## 爆肝工程師的異世界狂想曲
+### 爆肝工程師的異世界狂想曲
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/爆肝工程師的異世界狂想曲.jpg)
 - [MySelf片源](https://myself-bbs.com/thread-43500-1-1.html)
+
+### 刀劍神域
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/刀劍神域.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-43663-1-1.html)
 
 
 ## 劇場版
 
-## 魔法禁書目錄 劇場版：安迪米昂的奇蹟
+### 魔法禁書目錄 劇場版：安迪米昂的奇蹟
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/魔法禁書目錄%20劇場版：安迪米昂的奇蹟.jpg)
 - [MySelf片源](https://myself-bbs.com/thread-43636-1-1.html)
 
@@ -73,7 +77,7 @@ langs: zh-tw
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/聲之形.jpg)
 - [MySelf片源](https://myself-bbs.com/thread-42439-1-93.html)
 
-## 夏日大作戰
+### 夏日大作戰
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/夏日大作戰.jpg)
 - [MySelf片源](https://myself-bbs.com/thread-43601-1-1.html)
 
