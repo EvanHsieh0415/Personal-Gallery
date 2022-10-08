@@ -61,7 +61,13 @@ langs: zh-tw
 - [MySelf片源](https://myself-bbs.com/thread-43500-1-1.html)
 
 
-## 電影/劇場版
+## 劇場版
+
+## 魔法禁書目錄 劇場版：安迪米昂的奇蹟
+![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/魔法禁書目錄%20劇場版：安迪米昂的奇蹟.jpg)
+- [MySelf片源](https://myself-bbs.com/thread-43636-1-1.html)
+
+## 電影
 
 ### 聲之形
 ![image](https://raw.githubusercontent.com/EvanHsieh0415/Personal-Gallery/main/src/Recommend-Anime/img/聲之形.jpg)
