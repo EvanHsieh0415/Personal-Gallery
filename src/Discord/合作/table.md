@@ -1,4 +1,14 @@
+---
+title: Discord 合作列表
+description: Discord 芒果凍布丁の小天地
+tags: Public
+langs: zh-tw
+---
 # 合作列表
+
+[TOC]
+
+---
 
 |Type|Status|Server Name|Invite URL|Collaborator's ID|Note|
 |----|------|-----------|----------|-----------------|----|
@@ -18,3 +28,10 @@
 ||:x: Stop|❁⃘𖤣𖥧*ﾟ.温暖的家|https://discord.gg/3gwTk2eUqg|743717919006916661|
 ||:o: Online|Bot Design|程式討論群|https://discord.gg/JgnntWRpnH|871616467186098187|
 ||:o: Online|深夜客棧|https://discord.gg/3Z5TzVdSWh|889507305358504046||
+
+---
+
+<small>Copyright © 2022 {Mango Side Project}. All rights reserved.</small>
+
+{%hackmd @Luminous-Coder/dark-theme %}
+<!-- the theme made by Luminous-Coder -->
