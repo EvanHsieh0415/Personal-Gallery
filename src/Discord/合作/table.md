@@ -29,7 +29,7 @@ langs: zh-tw
 |　　|:o: Online|Bot Design 程式討論群  |https://discord.gg/JgnntWRpnH |871616467186098187||
 |　　|:o: Online|深夜客棧               |https://discord.gg/3Z5TzVdSWh |889507305358504046||
 |　　|:o: Online|狐朋狗友交友圈          |https://discord.gg/KHrQ6U6kp8 |712371270804570697||
-|　　|:o: Online|||||
+|　　|:o: Online|酪羽銀座               | https://discord.gg/TKwXearK6v |705047017893920799||
 |　　|:o: Online|||||
 |　　|:o: Online|||||
 |　　|:o: Online|||||
