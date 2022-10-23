@@ -47,31 +47,35 @@ langs: en-us
 ```
 
 ### `Type`
-| Machine     | Type Name     | ID                  | other |
-|-------------|---------------|---------------------|-------|
-| Encased Fan | Bulk Blasting | `create:blasting` ||
-|  | Bluk Haunting | `create:haunting` ||
-|  | Bluk Smoking | `create:smoking` ||
-|  | Bluk Washing | `create:splashing` ||
-| Millstone | Milling | `create:milling` ||
-| Curshing Wheel | Crushing | `create:crushing` ||
-| Mechanical Press | Compacting | `create:compacting` ||
-|  | Pressing | `create:pressing` ||
-| Mechanical Mixer | Mixing | `create:mixing` ||
-| Item Drain | Item Draining | `create:emptying` ||
-| Spout | Filling by Spout | `create:filling` ||
-|  |  | `create:` ||
-|  |  | `create:` ||
-|  |  | `create:` ||
-|  |  | `create:` ||
-|  |  | `create:` ||
-|  |  | `create:` ||
-|  |  | `create:` ||
-|  |  | `create:` ||
-|  |  | `create:` ||
-|  |  | `create:` ||
-|  |  | `create:` ||
+| Machine            | Type Name               | ID                           | other |
+|--------------------|-------------------------|------------------------------|-------|
+| Encased Fan        | Bluk Haunting           | `create:haunting`            |       |
+|                    | Bluk Washing            | `create:splashing`           |       |
+| Millstone          | Milling                 | `create:milling`             |       |
+| Curshing Wheel     | Crushing                | `create:crushing`            |       |
+| Mechanical Press   | Compacting              | `create:compacting`          |       |
+|                    | Pressing                | `create:pressing`            |       |
+| Mechanical Mixer   | Mixing                  | `create:mixing`              |       |
+| Item Drain         | Item Draining           | `create:emptying`            |       |
+| Spout              | Filling by Spout        | `create:filling`             |       |
+| Mechanical Saw     | Sawing                  | `create:cutting`             |       |
+| Deployer           | Deploying               | `create:deploying`           |       |
+| Mechanical Crafter | Mechanical Crafting     | `create:mechanical_crafting` |       |
+| (Red) Sand Paper   | Sandpaper Polishing     | `create:sandpaper_polishing` |       |
+| Hand               | Manual Item Application | `create:` |       |
+|  |  | `create:` |       |
 
+## Recipe Sequence
+```json=
+{
+  "type": "create:sequenced_assembly",
+  "transitionalItem": { 
+    "item": "" // Unfinished assembly items
+  },
+  "sequence": [], // Array[Step]
+  "loops": 1 // Repetitions
+}
+```
 
 ---
 
