@@ -42,30 +42,49 @@ langs: en-us
 ## Base Format
 ```json=
 {
-  "type": "create:{xxx}",
-  "ingredients": [],
-  "results": []]
+  "type": String["create:{TYPE}"],
+  "ingredients": Array[Object],
+  "results": Array[Object]
 }
 ```
 
-### `Type`
-| Machine            | Type Name               | ID                           | other |
-|--------------------|-------------------------|------------------------------|-------|
-| Encased Fan        | Bluk Haunting           | `create:haunting`            |       |
-| \                  | Bluk Washing            | `create:splashing`           |       |
-| Millstone          | Milling                 | `create:milling`             |       |
-| Curshing Wheel     | Crushing                | `create:crushing`            |       |
-| Mechanical Press   | Compacting              | `create:compacting`          |       |
-| \                  | Pressing                | `create:pressing`            |       |
-| Mechanical Mixer   | Mixing                  | `create:mixing`              |       |
-| Item Drain         | Item Draining           | `create:emptying`            |       |
-| Spout              | Filling by Spout        | `create:filling`             |       |
-| Mechanical Saw     | Sawing                  | `create:cutting`             |       |
-| Deployer           | Deploying               | `create:deploying`           |       |
-| Mechanical Crafter | Mechanical Crafting     | `create:mechanical_crafting` |       |
-| (Red) Sand Paper   | Sandpaper Polishing     | `create:sandpaper_polishing` |       |
-| Hand               | Manual Item Application | `create:item_application`    |       |
+### `TYPE`
+| Machine            | Type Name               | ID                           | Additional Attributes                                  | Remark |
+|--------------------|-------------------------|------------------------------|--------------------------------------------------------|--------|
+| Encased Fan        | Bluk Haunting           | `create:haunting`            |                                                        |        |
+| \                  | Bluk Washing            | `create:splashing`           |                                                        |        |
+| Millstone          | Milling                 | `create:milling`             |                                                        |        |
+| Curshing Wheel     | Crushing                | `create:crushing`            |                                                        |        |
+| Mechanical Press   | Compacting              | `create:compacting`          | `{"heatRequirement": "superheated \| heated \| none"}` |        |
+| \                  | Pressing                | `create:pressing`            |                                                        |        |
+| Mechanical Mixer   | Mixing                  | `create:mixing`              | `{"heatRequirement": "superheated \| heated \| none"}` |        |
+| Item Drain         | Item Draining           | `create:emptying`            |                                                        |        |
+| Spout              | Filling by Spout        | `create:filling`             |                                                        |        |
+| Mechanical Saw     | Sawing                  | `create:cutting`             |                                                        |        |
+| Deployer           | Deploying               | `create:deploying`           |                                                        |        |
+| Mechanical Crafter | Mechanical Crafting     | `create:mechanical_crafting` |                                                        |        |
+| (Red) Sand Paper   | Sandpaper Polishing     | `create:sandpaper_polishing` |                                                        |        |
+| Hand               | Manual Item Application | `create:item_application`    |                                                        |        |
 <!-- |  |  | `create:` |       | -->
+
+### `ingredients`
+```json=
+{
+  "item | fluid | tag | fluidTag": String,
+  "nbt": Object,
+  "amount": Number
+}
+```
+
+### `results`
+```json=
+{
+  "item | fluid": String,
+  "nbt": Object,
+  "chance": Number,
+  "amount": Number
+}
+```
 
 ## Recipe Sequence
 ```json=
