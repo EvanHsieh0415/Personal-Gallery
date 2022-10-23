@@ -62,8 +62,8 @@ langs: en-us
 | Deployer           | Deploying               | `create:deploying`           |       |
 | Mechanical Crafter | Mechanical Crafting     | `create:mechanical_crafting` |       |
 | (Red) Sand Paper   | Sandpaper Polishing     | `create:sandpaper_polishing` |       |
-| Hand               | Manual Item Application | `create:` |       |
-|  |  | `create:` |       |
+| Hand               | Manual Item Application | `create:item_application`    |       |
+<!-- |  |  | `create:` |       | -->
 
 ## Recipe Sequence
 ```json=
