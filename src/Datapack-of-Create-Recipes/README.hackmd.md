@@ -73,7 +73,7 @@ langs: en-us
 {
   "item | fluid | tag | fluidTag": String,
   "nbt": Object,
-  "amount": Number
+  "count | amount": Number // "item | tag": count, "fluid | fluidTag": amount
 }
 ```
 
@@ -83,7 +83,7 @@ langs: en-us
   "item | fluid": String,
   "nbt": Object,
   "chance": Number,
-  "count": Number
+  "count | amount": Number // "item": count, "fluid": amount
 }
 ```
 
