@@ -42,30 +42,31 @@ langs: en-us
 ## Base Format
 ```json=
 {
-  "type": String["create:{TYPE}"],
+  "type": String,
   "ingredients": Array[Object],
   "results": Array[Object]
 }
 ```
 
-### `TYPE`
+### `type`
 | Machine            | Type Name               | ID                           | Additional Attributes                                  | Remark |
 |--------------------|-------------------------|------------------------------|--------------------------------------------------------|--------|
 | Encased Fan        | Bluk Haunting           | `create:haunting`            |                                                        |        |
 | \                  | Bluk Washing            | `create:splashing`           |                                                        |        |
-| Millstone          | Milling                 | `create:milling`             |                                                        |        |
-| Curshing Wheel     | Crushing                | `create:crushing`            |                                                        |        |
+| Millstone          | Milling                 | `create:milling`             | `{"processingTime": Number}`                           | *1     |
+| Curshing Wheel     | Crushing                | `create:crushing`            | `{"processingTime": Number}`                           | *1     |
 | Mechanical Press   | Compacting              | `create:compacting`          | `{"heatRequirement": "superheated \| heated \| none"}` |        |
 | \                  | Pressing                | `create:pressing`            |                                                        |        |
-| Mechanical Mixer   | Mixing                  | `create:mixing`              | `{"heatRequirement": "superheated \| heated \| none"}` |        |
+| Mechanical Mixer   | Mixing                  | `create:mixing`              | `{"heatRequirement": "superheated \| heated \| none"}` | *2     |
 | Item Drain         | Item Draining           | `create:emptying`            |                                                        |        |
 | Spout              | Filling by Spout        | `create:filling`             |                                                        |        |
-| Mechanical Saw     | Sawing                  | `create:cutting`             |                                                        |        |
+| Mechanical Saw     | Sawing                  | `create:cutting`             | `{"processingTime": Number}`                           | *1     |
 | Deployer           | Deploying               | `create:deploying`           |                                                        |        |
-| Mechanical Crafter | Mechanical Crafting     | `create:mechanical_crafting` |                                                        |        |
 | (Red) Sand Paper   | Sandpaper Polishing     | `create:sandpaper_polishing` |                                                        |        |
 | Hand               | Manual Item Application | `create:item_application`    |                                                        |        |
 <!-- |  |  | `create:` |       | -->
+<small>*1: processingTime\<Ticks></small>  
+<small>*2: For ingredients: `{"return_chance": Number[Double]}`</small>
 
 ### `ingredients`
 ```json=
@@ -86,15 +87,24 @@ langs: en-us
 }
 ```
 
+##  Mechanical Crafting
+```json=
+{
+  "type": "create:mechanical_crafting",
+  "pattern": Array[Shape with Keys],
+  "key": Object[key: item | tag],
+  "result": Object["item" only],
+  "acceptMirrored": Boolen
+}
+```
+
 ## Recipe Sequence
 ```json=
 {
   "type": "create:sequenced_assembly",
-  "transitionalItem": { 
-    "item": "" // Unfinished assembly items
-  },
-  "sequence": [], // Array[Step]
-  "loops": 1 // Repetitions
+  "transitionalItem": Object["item" only],
+  "sequence": Array[Step],
+  "loops": Number
 }
 ```
 
