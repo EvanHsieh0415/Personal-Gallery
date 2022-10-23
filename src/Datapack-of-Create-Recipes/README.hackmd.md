@@ -7,6 +7,8 @@ langs: en-us
 
 # Datapack of Create Recipes
 
+\> English < | [繁體中文]() | [简体中文]()
+
 [TOC]
 
 ---
