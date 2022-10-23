@@ -83,7 +83,7 @@ langs: en-us
   "item | fluid": String,
   "nbt": Object,
   "chance": Number,
-  "amount": Number
+  "count": Number
 }
 ```
 
