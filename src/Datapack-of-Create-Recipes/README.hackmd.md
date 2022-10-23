@@ -50,11 +50,11 @@ langs: en-us
 | Machine            | Type Name               | ID                           | other |
 |--------------------|-------------------------|------------------------------|-------|
 | Encased Fan        | Bluk Haunting           | `create:haunting`            |       |
-|                    | Bluk Washing            | `create:splashing`           |       |
+| \                  | Bluk Washing            | `create:splashing`           |       |
 | Millstone          | Milling                 | `create:milling`             |       |
 | Curshing Wheel     | Crushing                | `create:crushing`            |       |
 | Mechanical Press   | Compacting              | `create:compacting`          |       |
-|                    | Pressing                | `create:pressing`            |       |
+| \                  | Pressing                | `create:pressing`            |       |
 | Mechanical Mixer   | Mixing                  | `create:mixing`              |       |
 | Item Drain         | Item Draining           | `create:emptying`            |       |
 | Spout              | Filling by Spout        | `create:filling`             |       |
