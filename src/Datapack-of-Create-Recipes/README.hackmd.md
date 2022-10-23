@@ -1,7 +1,7 @@
 ---
 title: Datapack of Create Recipes Docs
 description: Create Datapack
-tags: Public
+tags: Public, Tutorial, Minecraft, Datapack
 langs: en-us
 ---
 
